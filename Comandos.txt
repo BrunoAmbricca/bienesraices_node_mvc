@@ -1,0 +1,5 @@
+NodeJs Flags:
+npm -D instalar dependencias para development
+
+
+npx tailwindcss init -p  
